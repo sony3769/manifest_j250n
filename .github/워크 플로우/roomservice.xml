@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device common tree -->
+  <project name="PsychicGirl1/android_device_samsung_msm8917-common" path="device/samsung/j2y18lte" remote="github" revision="lineage-17.1-x64" />
+  <!-- Device trees -->
+  <project name="PsychicGirl1/android_device_samsung_j2y18lte" path="device/samsung/j2y18lte" remote="github" revision="lineage-17.1-x64" />
+  <!-- Kernel -->
+  <project name="PsychicGirl1/android_kernel_samsung_j2y18lte" path="kernel/samsung/j2y18lte" remote="github" revision="lineage-17.1-x64" />
+  <!-- Vendor -->
+  <project name="PsychicGirl1/android_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-17.1-x64" />
+</manifest>
